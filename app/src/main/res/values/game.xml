@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="computerTextView" translatable="false">COMPUTER: </string>
+    <string name="computerImageView" translatable="false">computer\'s choice</string>
+    <string name="playerTextView" translatable="false">YOU: </string>
+    <string name="playerRockImageButton" translatable="false">player\'s rock button</string>
+    <string name="playerPaperImageButton" translatable="false">player\'s paper button</string>
+    <string name="playerScissorsImageButton" translatable="false">player\'s scissors button</string>
+    <string name="resultTextView" translatable="false">Result: </string>
+    <string name="resultImageView" translatable="false">result</string>
+</resources>

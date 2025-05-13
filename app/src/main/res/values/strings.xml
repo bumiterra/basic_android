@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Android Dasar</string>
+    <string name="nameTextView">Name: </string>
+    <string name="sayHelloButton">Say Hello</string>
+    <string name="sayHelloTextView">Hello, %1$s!</string>
+    <string-array name="names">
+        <item>Adam</item>
+        <item>Bas</item>
+        <item>Chris</item>
+    </string-array>
+</resources>
